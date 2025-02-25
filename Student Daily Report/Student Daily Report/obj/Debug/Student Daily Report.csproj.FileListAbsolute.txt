@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.pdb
