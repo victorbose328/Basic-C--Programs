@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console Applicaiton Assignment\Console Applicaiton Assignment\bin\Debug\Console Applicaiton Assignment.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console Applicaiton Assignment\Console Applicaiton Assignment\bin\Debug\Console Applicaiton Assignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console Applicaiton Assignment\Console Applicaiton Assignment\bin\Debug\Console Applicaiton Assignment.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console Applicaiton Assignment\Console Applicaiton Assignment\obj\Debug\Console Applicaiton Assignment.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console Applicaiton Assignment\Console Applicaiton Assignment\obj\Debug\Console Applicaiton Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console Applicaiton Assignment\Console Applicaiton Assignment\obj\Debug\Console Applicaiton Assignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console Applicaiton Assignment\Console Applicaiton Assignment\obj\Debug\Console Applicaiton Assignment.pdb

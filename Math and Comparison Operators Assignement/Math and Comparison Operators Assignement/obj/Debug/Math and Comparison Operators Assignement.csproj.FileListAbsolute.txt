@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Math and Comparison Operators Assignement\Math and Comparison Operators Assignement\obj\Debug\Math and Comparison Operators Assignement.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Math and Comparison Operators Assignement\Math and Comparison Operators Assignement\obj\Debug\Math and Comparison Operators Assignement.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Math and Comparison Operators Assignement\Math and Comparison Operators Assignement\bin\Debug\Math and Comparison Operators Assignement.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Math and Comparison Operators Assignement\Math and Comparison Operators Assignement\bin\Debug\Math and Comparison Operators Assignement.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Math and Comparison Operators Assignement\Math and Comparison Operators Assignement\bin\Debug\Math and Comparison Operators Assignement.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Math and Comparison Operators Assignement\Math and Comparison Operators Assignement\obj\Debug\Math and Comparison Operators Assignement.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Math and Comparison Operators Assignement\Math and Comparison Operators Assignement\obj\Debug\Math and Comparison Operators Assignement.pdb
