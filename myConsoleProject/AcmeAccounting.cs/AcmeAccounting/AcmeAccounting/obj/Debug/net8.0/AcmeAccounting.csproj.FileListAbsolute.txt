@@ -1,0 +1,14 @@
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.exe
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.deps.json
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.runtimeconfig.json
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.dll
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\bin\Debug\net8.0\AcmeAccounting.pdb
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.AssemblyInfoInputs.cache
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.AssemblyInfo.cs
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.dll
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\refint\AcmeAccounting.dll
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.pdb
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\AcmeAccounting.genruntimeconfig.cache
+C:\Users\Victor Bose\Desktop\Basic_C#_Programs\myConsoleProject\AcmeAccounting.cs\AcmeAccounting\AcmeAccounting\obj\Debug\net8.0\ref\AcmeAccounting.dll
