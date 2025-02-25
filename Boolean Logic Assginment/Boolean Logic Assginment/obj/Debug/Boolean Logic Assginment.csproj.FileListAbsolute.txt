@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Boolean Logic Assginment\Boolean Logic Assginment\bin\Debug\Boolean Logic Assginment.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Boolean Logic Assginment\Boolean Logic Assginment\bin\Debug\Boolean Logic Assginment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Boolean Logic Assginment\Boolean Logic Assginment\bin\Debug\Boolean Logic Assginment.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Boolean Logic Assginment\Boolean Logic Assginment\obj\Debug\Boolean Logic Assginment.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Boolean Logic Assginment\Boolean Logic Assginment\obj\Debug\Boolean Logic Assginment.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Boolean Logic Assginment\Boolean Logic Assginment\obj\Debug\Boolean Logic Assginment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Boolean Logic Assginment\Boolean Logic Assginment\obj\Debug\Boolean Logic Assginment.pdb
