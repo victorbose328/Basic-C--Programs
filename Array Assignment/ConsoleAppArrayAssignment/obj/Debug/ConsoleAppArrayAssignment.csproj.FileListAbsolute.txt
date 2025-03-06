@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Array Assignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Array Assignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Array Assignment\ConsoleAppArrayAssignment\bin\Debug\ConsoleAppArrayAssignment.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Array Assignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Array Assignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Array Assignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Array Assignment\ConsoleAppArrayAssignment\obj\Debug\ConsoleAppArrayAssignment.pdb
