@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Abstract  Class Assignment\Module 5 - Abstract  Class Assignment\obj\Debug\Module 5 - Abstract  Class Assignment.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Abstract  Class Assignment\Module 5 - Abstract  Class Assignment\obj\Debug\Module 5 - Abstract  Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Abstract  Class Assignment\Module 5 - Abstract  Class Assignment\bin\Debug\Module 5 - Abstract  Class Assignment.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Abstract  Class Assignment\Module 5 - Abstract  Class Assignment\bin\Debug\Module 5 - Abstract  Class Assignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Abstract  Class Assignment\Module 5 - Abstract  Class Assignment\bin\Debug\Module 5 - Abstract  Class Assignment.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Abstract  Class Assignment\Module 5 - Abstract  Class Assignment\obj\Debug\Module 5 - Abstract  Class Assignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Abstract  Class Assignment\Module 5 - Abstract  Class Assignment\obj\Debug\Module 5 - Abstract  Class Assignment.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor Bose\\Documents\\GitHub\\Basic_C-Sharp_Programs\\Abstract  Class Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4827354F-59E5-4024-9FAF-ACF2F0B7B54F}|Module 5 - Abstract  Class Assignment\\Module 5 - Abstract  Class Assignment.csproj|c:\\users\\victor bose\\documents\\github\\basic_c-sharp_programs\\abstract  class assignment\\module 5 - abstract  class assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4827354F-59E5-4024-9FAF-ACF2F0B7B54F}|Module 5 - Abstract  Class Assignment\\Module 5 - Abstract  Class Assignment.csproj|solutionrelative:module 5 - abstract  class assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Bose\\Documents\\GitHub\\Basic_C-Sharp_Programs\\Abstract  Class Assignment\\Module 5 - Abstract  Class Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Module 5 - Abstract  Class Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor Bose\\Documents\\GitHub\\Basic_C-Sharp_Programs\\Abstract  Class Assignment\\Module 5 - Abstract  Class Assignment\\Program.cs",
+              "RelativeToolTip": "Module 5 - Abstract  Class Assignment\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:50:33.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
