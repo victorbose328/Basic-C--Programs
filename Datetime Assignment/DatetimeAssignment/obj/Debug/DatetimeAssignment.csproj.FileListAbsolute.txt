@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Datetime Assignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Datetime Assignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Datetime Assignment\DatetimeAssignment\bin\Debug\DatetimeAssignment.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Datetime Assignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Datetime Assignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Datetime Assignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Datetime Assignment\DatetimeAssignment\obj\Debug\DatetimeAssignment.pdb
