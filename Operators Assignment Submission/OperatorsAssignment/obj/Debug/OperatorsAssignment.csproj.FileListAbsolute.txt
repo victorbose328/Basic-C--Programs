@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Operators Assignment Submission\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Operators Assignment Submission\OperatorsAssignment\bin\Debug\OperatorsAssignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Operators Assignment Submission\OperatorsAssignment\bin\Debug\OperatorsAssignment.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Operators Assignment Submission\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Operators Assignment Submission\OperatorsAssignment\obj\Debug\OperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Operators Assignment Submission\OperatorsAssignment\obj\Debug\OperatorsAssignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Operators Assignment Submission\OperatorsAssignment\obj\Debug\OperatorsAssignment.pdb
