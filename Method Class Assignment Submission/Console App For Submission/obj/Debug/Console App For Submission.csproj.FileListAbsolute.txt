@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Method Class Assignment Submission\Console App For Submission\bin\Debug\Console App For Submission.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Method Class Assignment Submission\Console App For Submission\bin\Debug\Console App For Submission.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Method Class Assignment Submission\Console App For Submission\bin\Debug\Console App For Submission.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Method Class Assignment Submission\Console App For Submission\obj\Debug\Console App For Submission.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Method Class Assignment Submission\Console App For Submission\obj\Debug\Console App For Submission.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Method Class Assignment Submission\Console App For Submission\obj\Debug\Console App For Submission.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Method Class Assignment Submission\Console App For Submission\obj\Debug\Console App For Submission.pdb
