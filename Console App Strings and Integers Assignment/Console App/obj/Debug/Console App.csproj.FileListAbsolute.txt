@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console App Strings and Integers Assignment\Console App\bin\Debug\Console App.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console App Strings and Integers Assignment\Console App\bin\Debug\Console App.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console App Strings and Integers Assignment\Console App\bin\Debug\Console App.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console App Strings and Integers Assignment\Console App\obj\Debug\Console App.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console App Strings and Integers Assignment\Console App\obj\Debug\Console App.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console App Strings and Integers Assignment\Console App\obj\Debug\Console App.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Console App Strings and Integers Assignment\Console App\obj\Debug\Console App.pdb
