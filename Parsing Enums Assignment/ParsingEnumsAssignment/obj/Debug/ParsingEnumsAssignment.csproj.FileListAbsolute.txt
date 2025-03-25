@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Parsing Enums Assignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Parsing Enums Assignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Parsing Enums Assignment\ParsingEnumsAssignment\bin\Debug\ParsingEnumsAssignment.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Parsing Enums Assignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Parsing Enums Assignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Parsing Enums Assignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Parsing Enums Assignment\ParsingEnumsAssignment\obj\Debug\ParsingEnumsAssignment.pdb

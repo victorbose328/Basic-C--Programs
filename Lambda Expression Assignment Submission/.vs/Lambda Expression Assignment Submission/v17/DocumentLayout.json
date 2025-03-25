@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor Bose\\Documents\\GitHub\\Basic_C-Sharp_Programs\\Lambda Expression Assignment Submission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2A8EBA-74ED-45C0-875D-BCA5378DE151}|LambdaExpressionAssignment\\LambdaExpressionAssignment.csproj|c:\\users\\victor bose\\documents\\github\\basic_c-sharp_programs\\lambda expression assignment submission\\lambdaexpressionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2A8EBA-74ED-45C0-875D-BCA5378DE151}|LambdaExpressionAssignment\\LambdaExpressionAssignment.csproj|solutionrelative:lambdaexpressionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Bose\\Documents\\GitHub\\Basic_C-Sharp_Programs\\Lambda Expression Assignment Submission\\LambdaExpressionAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "LambdaExpressionAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor Bose\\Documents\\GitHub\\Basic_C-Sharp_Programs\\Lambda Expression Assignment Submission\\LambdaExpressionAssignment\\Program.cs",
+              "RelativeToolTip": "LambdaExpressionAssignment\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:19:35.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Lambda Expression Assignment Submission\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Lambda Expression Assignment Submission\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Lambda Expression Assignment Submission\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Lambda Expression Assignment Submission\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Lambda Expression Assignment Submission\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Lambda Expression Assignment Submission\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Lambda Expression Assignment Submission\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.pdb
