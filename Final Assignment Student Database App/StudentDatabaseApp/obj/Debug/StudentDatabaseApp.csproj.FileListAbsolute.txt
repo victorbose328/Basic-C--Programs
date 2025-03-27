@@ -1,0 +1,12 @@
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe.config
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\bin\Debug\StudentDatabaseApp.pdb
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\bin\Debug\EntityFramework.dll
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\bin\Debug\EntityFramework.xml
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.AssemblyReference.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\obj\Debug\StudentD.5002D26D.Up2Date
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.exe
+C:\Users\Victor Bose\Documents\GitHub\Basic_C-Sharp_Programs\Final Assignment Student Database App\StudentDatabaseApp\obj\Debug\StudentDatabaseApp.pdb
